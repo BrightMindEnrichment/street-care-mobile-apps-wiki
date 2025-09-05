@@ -3,6 +3,9 @@
 The wiki is divided into platform specific wikis.
 For [Android](/Android/android.md) and [iOS](/iOS/iOS.md).
 
+Follow [this](/new-member-orientation.md) wiki page for **new member orientation**.
+
+
 ### Important Links
 |**Service**            |**URL**                            |
 |--------------------   |--------------------------------   |
@@ -13,5 +16,3 @@ For [Android](/Android/android.md) and [iOS](/iOS/iOS.md).
 |Apple Store Connect    |https://appstoreconnect.apple.com/ |
 
 *Note: If you're not able to access and you require it, ASK the Team Leads.*  
-
-
